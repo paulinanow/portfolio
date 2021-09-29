@@ -10,7 +10,7 @@ Inside application I’ve modified the gallery with fields, added search and sor
 These applications it’s a 3D virtual model. The model can be visualized in the real world. The entire application can be display by phone. When you open the model on your phone you can see the visualizer 3D model. The model has the capability to place sizing cubes inside of mixed reality space.  You can zoom in, manipulate it, and twist the model.
 
 ⚠️ Be patient: the below file is 36 MB large and can load longer than usual.
-![Mixed reality demo](./MixedReality.gif)
+![Mixed reality demo](./MixedReality.GIF)
 
 ## Power BI report
 This report is example how to show sales amount using Power BI Desktop for imagine cycle company called Adventure cycle company – logo located in first bookmark, on the upper right conner.  
