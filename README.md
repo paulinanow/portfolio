@@ -9,7 +9,8 @@ Inside application I’ve modified the gallery with fields, added search and sor
 ## Power Apps Mixed reality application
 These applications it’s a 3D virtual model. The model can be visualized in the real world. The entire application can be display by phone. When you open the model on your phone you can see the visualizer 3D model. The model has the capability to place sizing cubes inside of mixed reality space.  You can zoom in, manipulate it, and twist the model.
 
-⚠️ Be patient: the below file is 36 MB large and can load longer than usual.
+> ⚠️ Be patient: the below file is 36 MB large and can load longer than usual.  
+
 ![Mixed reality demo](./MixedReality.GIF)
 
 ## Power BI report
