@@ -15,3 +15,5 @@ To create this report, I took data from **AdventureWorks2014** database. Report 
 * **Pie chart** showing in proportion Sales Amount by sales territory country of category.  
 Second bookmark Profit include **Matrix visualization**-where I add last column total sales amount for summarizing sales for selected months and years.  
 Clicking on the slicers (placed in this bookmark) with name of country you will see on the **map’s visualization** how sales amount look depending on the country.   
+
+![Portfolio Report v2 Profit](https://user-images.githubusercontent.com/52428872/135341227-943ea940-1b9f-4590-b00b-7e32e1b9a7ea.png)
