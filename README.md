@@ -4,6 +4,8 @@
 This Microsoft Power App applications base on an Excel spreadsheet in OneDrive. This small and simple application allowing you to statements business expenses.
 Inside application I’ve modified the gallery with fields, added search and sort function and create possibility to click anywhere.
 
+![Expenses Power App](./ExpensesApp.gif)
+
 ## Power Apps Mixed reality application
 These applications it’s a 3D virtual model. The model can be visualized in the real world. The entire application can be display by phone. When you open the model on your phone you can see the visualizer 3D model. The model has the capability to place sizing cubes inside of mixed reality space.  You can zoom in, manipulate it, and twist the model.
 
